@@ -74,6 +74,8 @@ $RECYCLE.BIN/
 **/flowDefinitions/**
 **/staticresources/**
 **/documents/**
+
+**/abw_cms__Template_Campaign_Member_Status_Log__c/fields/abw_cms__Details__c.field-meta.xml
 #**/installedPackages/**
 #**/dashboards/**
 #**/reports/**

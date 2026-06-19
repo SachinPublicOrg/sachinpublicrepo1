@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <description>test</description>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>abw_cms__Template_Campaign_Member_Status_Log__c.abw_cms__Details__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>testmanagepackageps</label>
 </PermissionSet>
