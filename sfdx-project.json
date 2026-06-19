@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "test-app",
+      "default": true
+    }
+  ],
+  "name": "rulesettest",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "67.0"
+}
